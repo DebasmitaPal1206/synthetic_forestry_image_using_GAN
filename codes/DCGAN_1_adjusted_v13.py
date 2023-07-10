@@ -1,4 +1,4 @@
-#Without self-attention modules
+#This is used for the experiment without self-attention modules
 
 import torch
 import torch.nn as nn
